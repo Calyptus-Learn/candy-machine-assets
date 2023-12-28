@@ -1,0 +1,1 @@
+## The images and the json files should be in a folder named "assets" otherwise the code won't run
